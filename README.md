@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 Sometimes I write on [achmiral.id](https://achmiral.id)
+- 📝 Sometimes I write on [achmiral.id](https://achmiral.id) or [world.hey.com/achmiral](https://world.hey.com/achmiral)
 
-- 📫 How to reach me **miral.achmed@gmail.com**
+- 📫 How to reach me **achmiral@hey.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

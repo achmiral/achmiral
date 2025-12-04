@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achmiral&label=Profile%20views&color=0e75b6&style=flat" alt="achmiral" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://x.com/achmiral" target="blank"><img src="https://img.shields.io/x/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📝 Sometimes I write on [achmiral.id](https://achmiral.id) or [world.hey.com/achmiral](https://world.hey.com/achmiral)
 
